@@ -1,4 +1,4 @@
-<h1 style="font-size:64">Hi 👋, I'm Abdul-Afeez</h1>
+<h1 styles="font-size:64px">Hi 👋, I'm Abdul-Afeez</h1>
 
 <h3>A passionate Software Engineer</h3>
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [An event App](https://github.com/Abdul-Afiz/gql_Event_Project)
 
-- 🌱 I’m currently learning **MongoDB Database Administration, Data Structure and Algorithm **
+- 🌱 I’m currently learning **MongoDB Database Administration, Data Structure and Algorithm**
 
 - 💬 Ask me about **HTML, CSS, React Js, JavaScript(ES6+), TypeScript.**
 
