@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [An event App](https://github.com/Abdul-Afiz/gql_Event_Project)
 
-- 🌱 I’m currently learning **MongoDB Database Administration,Data Structure and Algorithm, CI/CD, Containerization(Docker, Aws, Kubernetes), Advanced Typescript, Microservices.**
+- 🌱 I’m currently learning **MongoDB Database Administration, Data Structure and Algorithm **
 
 - 💬 Ask me about **HTML, CSS, React Js, JavaScript(ES6+), TypeScript.**
 
