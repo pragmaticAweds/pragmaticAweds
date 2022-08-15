@@ -1,4 +1,4 @@
-<h1 style="font-size:32px">Hi 👋, I'm Abdul-Afeez</h1>
+<h1 style="font-size:64px">Hi 👋, I'm Abdul-Afeez</h1>
 
 <h3>A passionate Software Engineer</h3>
 
