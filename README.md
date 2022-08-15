@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Abdul-Afeez</h1>
+<h1 style="font-size:32px">Hi 👋, I'm Abdul-Afeez</h1>
 
 <h3>A passionate Software Engineer</h3>
 
@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fT1CaHNEUCc_B6L41fFRloq7CL_o1GIo/view?usp=sharing](https://drive.google.com/file/d/1fT1CaHNEUCc_B6L41fFRloq7CL_o1GIo/view?usp=sharing)
 
-- ⚡ Fun fact **I read, exercise, play to cool my brain.**
+- ⚡ Fun fact **I read, exercise, practice data Structure and algorithm to cool my brain.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
