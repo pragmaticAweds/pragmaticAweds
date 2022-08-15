@@ -96,7 +96,7 @@
 <h3 align="left">Os:</h3>
 <div>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
-<a href="https://www.apple.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg" alt="apple" width="40" height="40"/></a> 
+<a href="https://www.apple.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg" alt="apple" /></a> 
 </div>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-afiz&show_icons=true&locale=en&layout=compact" alt="abdul-afiz" /></p>
