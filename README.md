@@ -1,4 +1,4 @@
-<h1 styles="font-size:64px">Hi 👋, I'm Abdul-Afeez</h1>
+<h1>Hi 👋, I'm Abdul-Afeez</h1>
 
 <h3>A passionate Software Engineer</h3>
 
@@ -27,7 +27,6 @@
 </p>
 
 <h2 align="left">Tech Stacks</h2>
-<div style="background:white">
 <div>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/Asabeneh/asabeneh/raw/master/images/es6.svg" alt="javascript" width="40" height="40"/></a>
@@ -99,7 +98,6 @@
 <div>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
 <a href="https://www.apple.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg" alt="apple" /></a> 
-</div>
 </div>
  
 <div style="display:flex">
