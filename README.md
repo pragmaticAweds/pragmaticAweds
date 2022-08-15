@@ -61,7 +61,7 @@
 <h3 align="left">Deployment: </h3>
 <div>
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
-<a href="https://netlify.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" alt="netlify" width="40" height="40"/></a>
+<a href="https://netlify.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" alt="netlify" height="40"/></a>
 <a href="https://vercel.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/vercel.svg" alt="vercel"  height="40"/></a>
 </div>
 
