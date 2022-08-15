@@ -90,7 +90,7 @@
 <h3 align="left">Version Control:</h3>
 <div
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://gitlab.com.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/t9ip6__gitlab.svg" alt="gitlab"/></a>
+<a href="https://gitlab.com.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/t9ip6__gitlab.svg" alt="gitlab" height="40"/></a>
 </div>
 
 <h3 align="left">Os:</h3>
