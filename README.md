@@ -136,7 +136,13 @@
  
 ---
  
-<div style="display:flex">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-afiz&show_icons=true&locale=en&layout=compact" alt="abdul-afiz" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-afiz&show_icons=true&locale=en" alt="abdul-afiz" /></p>
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-afiz&show_icons=true&locale=en&layout=compact" alt="abdul-afiz" />
 </div>
+
+---
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=abdul-afiz&show_icons=true&locale=en" alt="abdul-afiz"/>
+</div>
+
