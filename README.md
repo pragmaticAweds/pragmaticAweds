@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Abdul-Afeez</h1>
 
-<h3>A passionate Software Engineer</h3>
+<h3>A passionate Software Engineer Who loves to solve problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-afiz&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-afiz" /> </p>
 
