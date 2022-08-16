@@ -10,9 +10,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
----
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-afiz" alt="abdul-afiz" /></a> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/iam_abdul_afeez" target="blank"><img src="https://img.shields.io/twitter/follow/iam_abdul_afeez?logo=twitter&style=for-the-badge" alt="iam_abdul_afeez" /></a> </p> -->
