@@ -101,6 +101,7 @@
 <a href="https://www.apple.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg" alt="apple" /></a> 
 </div>
 
+### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdul-Afiz&theme=dark&background=000000)](https://git.io/streak-stats)
  
