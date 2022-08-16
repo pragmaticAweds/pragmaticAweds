@@ -102,7 +102,7 @@
 </div>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-Abdul-Afiz&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdul-Afiz&theme=dark&background=000000)](https://git.io/streak-stats)
  
 <div style="display:flex">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-afiz&show_icons=true&locale=en&layout=compact" alt="abdul-afiz" /></p>
