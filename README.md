@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Abdul-Afeez</h1>
 
-<h2> A pragmatic programmer who loves to solve problems</h3>
+<h3> A pragmatic programmer who loves to solve problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-afiz&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-afiz" /> </p>
 
@@ -86,8 +86,6 @@
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> -->
 </div>
 
----
-
 <h4 align="left">Version Control:</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
@@ -105,9 +103,9 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdul-Afiz&theme=dark&background=000000)](https://git.io/streak-stats)
- 
+
 ---
- 
+
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-afiz&show_icons=true&locale=en&layout=compact" alt="abdul-afiz" />
 </div>
