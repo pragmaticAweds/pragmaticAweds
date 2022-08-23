@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Abdul-Afeez</h1>
 
-<h3> A pragmatic programmer who loves to solve user's problems</h3>
+<h3> A pragmatic programmer who loves to solve user's problems and open to daily learning.</h3>
 <h3>At leisure, I spend time learning new technologies, solving DSA, and finding better ways to optimize code for better performance.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-afiz&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-afiz" /> </p>
 
