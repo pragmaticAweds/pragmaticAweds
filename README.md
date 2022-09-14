@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **MongoDB Database Administration, Data Structure and Algorithm**
 
-- 💬 Ask me about **HTML, CSS, React Js, JavaScript(ES6+), TypeScript.**
+- 💬 Ask me about **HTML, CSS, React-Native, React Js, JavaScript(ES6+), TypeScript.**
 
 - 📫 How to reach me **Jimohafeez738@gmail.com**
 
