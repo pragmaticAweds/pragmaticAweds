@@ -102,17 +102,17 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdul-Afiz&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pragmaticAweds&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-afiz&show_icons=true&locale=en&layout=compact" alt="abdul-afiz" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pragmaticAweds&show_icons=true&locale=en&layout=compact" alt="abdul-afiz" />
 </div>
 
 ---
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=abdul-afiz&show_icons=true&locale=en" alt="abdul-afiz"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pragmaticAweds&show_icons=true&locale=en" alt="abdul-afiz"/>
 </div>
 
