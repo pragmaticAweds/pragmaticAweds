@@ -48,7 +48,7 @@
 <h4 align="left">Back End FrameWorks:</h4>
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,solidity,graphql,postman)](https://skillicons.dev)
 
 <!--  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> -->
 <!--  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a> -->
