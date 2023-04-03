@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **Jimohafeez738@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fT1CaHNEUCc_B6L41fFRloq7CL_o1GIo/view?usp=sharing](https://drive.google.com/file/d/1fT1CaHNEUCc_B6L41fFRloq7CL_o1GIo/view?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1RSsFXPI6JAUJKW0IyVfDMacVbgVtXW1FCzfEewKRH78/edit?usp=sharing](https://docs.google.com/document/d/1RSsFXPI6JAUJKW0IyVfDMacVbgVtXW1FCzfEewKRH78/edit?usp=sharing)
 
 - ⚡ Fun fact **I read, exercise, practice data Structure and algorithm to cool my brain.**
 
