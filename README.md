@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Abdul-Afeez</h1>
+<h1>Hi 👋, I'm Afeez</h1>
 
 <h3> A pragmatic programmer who loves to solve user's problems and open to daily learning.</h3>
 <h3>At leisure, I spend time learning new technologies, solving DSA, and finding better ways to optimize code for better performance.</h3>
@@ -12,7 +12,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/iam_abdul_afeez" target="blank"><img src="https://img.shields.io/twitter/follow/iam_abdul_afeez?logo=twitter&style=for-the-badge" alt="iam_abdul_afeez" /></a> </p> -->
 
-- 🔭 I’m currently working on [An event App](https://github.com/Abdul-Afiz/gql_Event_Project)
+<!-- - 🔭 I’m currently working on [An event App](https://github.com/Abdul-Afiz/gql_Event_Project)  -->
 
 - 🌱 I’m currently learning **MongoDB Database Administration, Data Structure and Algorithm**
 
